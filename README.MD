@@ -3,6 +3,11 @@
 A lightweight web platform for **live crypto + forex price tracking**, **TradingView-powered charting**, and a **paper-trading terminal** with basic P&L and portfolio tracking. Built with vanilla **HTML/CSS/JavaScript** for fast, framework-free deployment and easy customization.
 
 > ⚠ Disclaimer: This project is for **education and paper-trading only**. It does **not** provide financial advice, nor execute real trades.
+# Market Pulse Trading Platform
+
+A live trading dashboard for crypto and forex pairs with paper trading support.  
+
+🚀 **Live Demo**: [market-pulse-trading-platform.vercel.app](https://market-pulse-trading-platform.vercel.app)
 
 ---
 
